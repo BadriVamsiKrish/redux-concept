@@ -1,0 +1,6 @@
+1.state.counter++ will directly change the state.
+1.identifier miss match by typo leads to error it can be reduce by decalre as constant and export them for use
+2.because for every action we need mention every state
+3.on increase states it is tuff to manage.
+1.it reduce code and simlify it
+2.here the mutation value is copied and overide state value even though mutate.
